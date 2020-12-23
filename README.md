@@ -1,10 +1,10 @@
 <img src="https://github.com/querocriarsite/querocriarsite/blob/main/img/capa.jpg">
 
+---
+
 <div align="center">
 <h2>Olá <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/querocriarsite/querocriarsite/blob/main/gif/Hi.gif" width="30px"></h2>
 </div>
-
----
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=querocriarsite&show_icons=true&theme=dracula"> 
