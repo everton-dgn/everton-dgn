@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39fa5477-93da-43ad-9d40-31fe96180913" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,11 +32,41 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608702735199</updated>
-      <workItem from="1608702736442" duration="716000" />
+      <workItem from="1608702736442" duration="2285000" />
     </task>
+    <task id="LOCAL-00001" summary="ajustes README.md">
+      <created>1608703559497</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608703559497</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ajustes README.md">
+      <created>1608703612498</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608703612498</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ajustes README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajustes README.md" />
   </component>
 </project>
