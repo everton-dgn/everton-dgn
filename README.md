@@ -31,6 +31,8 @@
 <code><img height="40" src="https://www.flaticon.com/svg/vstatic/svg/825/825456.svg?token=exp=1610765514~hmac=433e0f6d7e5c0d3f54235997fb797fcb"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="40" src="https://clipartart.com/images/adobe-xd-logo-clipart-3.png"></code>
+<code><img height="40" src="https://banner2.cleanpng.com/20190214/xal/kisspng-coreldraw-computer-software-vector-graphics-practica-corel-draw-5c65b31074dae4.9417377715501688484787.jpg"></code>
   </div>
   </p>
 
