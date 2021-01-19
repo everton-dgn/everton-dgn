@@ -30,7 +30,8 @@
 <code><img height="40" src="https://www.flaticon.com/svg/vstatic/svg/825/825456.svg?token=exp=1610765514~hmac=433e0f6d7e5c0d3f54235997fb797fcb"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code> 
 <code><img height="40" src="https://clipartart.com/images/adobe-xd-logo-clipart-3.png"></code>
-<code><img height="40" src="https://www.coreldraw.com/static/cdgs/product_content/cdgs/2019/boxshot-coreldraw-upgrade-program-2019.png"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg"></code>
+<code><img height="40" src="https://cdn.imgbin.com/5/25/13/imgbin-scrum-kanban-agile-software-development-professional-training-others-xvAaMChAtaC1EHBt8nWN6QvjM.jpg"></code>
   </div>
   </p>
 
