@@ -23,14 +23,13 @@
 <code><img height="40" src="https://www.seekpng.com/png/full/80-803501_javascript-logo-logo-de-java-script-png.png"></code> 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code> 
 <code><img height="40" src="https://cdn.auth0.com/blog/react-js/react.png"></code> 
-<code><img height="40" src="https://images.ctfassets.net/qcrphhesuv4n/6cZj9wicrfq7gQwyYy7RcI/9ec870532475e09f72bb1c7143a4564b/1_p1TndLk3UsGPBsM7qHPZIw.png?w=800&q=50"></code> 
+<code><img height="40" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fmax%2F2880%2F1*2tmzU7bve-VlTkOMWsk_Hw.jpeg&imgrefurl=https%3A%2F%2Fmedium.com%2Fwesionary-team%2Fwhy-nextjs-in-2020-8c2f76973cbf&tbnid=zPM4UKkasCXsnM&vet=12ahUKEwiQlNrihqfuAhXuMbkGHf7SA_YQMygLegUIARDCAQ..i&docid=SXDPtBKMmzsOcM&w=1440&h=720&q=nextjs%20logo&ved=2ahUKEwiQlNrihqfuAhXuMbkGHf7SA_YQMygLegUIARDCAQ#imgrc=1m67NMSoDo-mfM&imgdii=TjlbyUlWqjH3lM"></code> 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="40" src="https://d33wubrfki0l68.cloudfront.net/6ff34ec8760318b99888ee4b75d1e265170a84b9/6479c/logos/nuxt.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code> 
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png"></code>
 <code><img height="40" src="https://www.flaticon.com/svg/vstatic/svg/825/825456.svg?token=exp=1610765514~hmac=433e0f6d7e5c0d3f54235997fb797fcb"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code> 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="40" src="https://clipartart.com/images/adobe-xd-logo-clipart-3.png"></code>
 <code><img height="40" src="https://www.coreldraw.com/static/cdgs/product_content/cdgs/2019/boxshot-coreldraw-upgrade-program-2019.png"></code>
   </div>
