@@ -22,15 +22,15 @@
 <code><img height="40" src="https://camo.githubusercontent.com/b059b3150634ebbb37fac310309b3c4a841b0ecdabcc7409c0067397f8a3931b/687474703a2f2f696f31332d686967682d6470692e61707073706f742e636f6d2f696d616765732f435353335f4c6f676f2e737667" title="CSS"></code> 
 <code><img height="40" src="https://www.seekpng.com/png/full/80-803501_javascript-logo-logo-de-java-script-png.png" title="JAVASCRIPT"></code> 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" title="BOOTSTRAP"></code> 
-<code><img height="40" src="https://cdn.auth0.com/blog/react-js/react.png"></code> 
-<code><img height="40" src="https://camo.githubusercontent.com/d5bd7ee34ab0250c1613c61add0f937fb4917cde97e77cb0e86c634fec22b4e9/68747470733a2f2f6b617573747562682e6465762f696d672f6e6578746a732e36333338653362312e706e67"></code> 
-<code><img height="40" src="https://material-ui.com/static/logo_raw.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="40" src="https://d33wubrfki0l68.cloudfront.net/6ff34ec8760318b99888ee4b75d1e265170a84b9/6479c/logos/nuxt.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code> 
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code> 
-<code><img height="40" src="https://clipartart.com/images/adobe-xd-logo-clipart-3.png"></code>
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/scrumorg-1.svg"></code>
+<code><img height="40" src="https://cdn.auth0.com/blog/react-js/react.png" title="REACT"></code> 
+<code><img height="40" src="https://camo.githubusercontent.com/d5bd7ee34ab0250c1613c61add0f937fb4917cde97e77cb0e86c634fec22b4e9/68747470733a2f2f6b617573747562682e6465762f696d672f6e6578746a732e36333338653362312e706e67" title="NEXT"></code> 
+<code><img height="40" src="https://material-ui.com/static/logo_raw.svg" title="MATERIAL UI"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" title="VUE"></code>
+<code><img height="40" src="https://d33wubrfki0l68.cloudfront.net/6ff34ec8760318b99888ee4b75d1e265170a84b9/6479c/logos/nuxt.svg" title="NUXT"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" title="SASS"></code> 
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" title="GIT"></code> 
+<code><img height="40" src="https://clipartart.com/images/adobe-xd-logo-clipart-3.png" title="ADOBE XD"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/scrumorg-1.svg" title="SCRUM"></code>
   </div>
   </p>
 
