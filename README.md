@@ -27,7 +27,7 @@
 <code><img height="40" src="https://cdn.auth0.com/blog/react-js/react.png" title="REACT"></code> 
 <code><img height="40" src="https://camo.githubusercontent.com/d5bd7ee34ab0250c1613c61add0f937fb4917cde97e77cb0e86c634fec22b4e9/68747470733a2f2f6b617573747562682e6465762f696d672f6e6578746a732e36333338653362312e706e67" title="NEXT"></code> 
     <code><img height="40" src="https://avatars.githubusercontent.com/u/1609975?s=280&v=4" title="DART"></code> 
-    <code><img height="40" src="https://lh3.googleusercontent.com/proxy/MNpLf3xPm9DFkpgRSenuI3Zi2fVyxbrKUBintfqzZ4Dwtl_RrK06oh4R17gTyGgU95zQ94NIsTp-tOy7UWPa2omX-RxB5HPcCayVbVmoqbpon0fPGKAlBiTxxkSidgc" title="FLUTTER"></code> 
+    <code><img height="40" src="https://cdn.iconscout.com/icon/free/png-256/flutter-2752187-2285004.png" title="FLUTTER"></code> 
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" title="GIT"></code> 
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" title="ADOBE XD"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/scrumorg-1.svg" title="SCRUM"></code>
