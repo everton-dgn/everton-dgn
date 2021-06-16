@@ -1,6 +1,5 @@
-<div align="center">
-<h2>Olá <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/everton-dgn/everton-dgn/blob/main/gif/Hi.gif" width="30px"></h2>
-</div>
+---
+<h2 align="center">Olá <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/everton-dgn/everton-dgn/blob/main/gif/Hi.gif" width="30px"></h2>
 
 <div align="center">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=everton-dgn&show_icons=true&theme=dracula"> 
@@ -20,12 +19,14 @@
 <code><img height="40" src="https://img.icons8.com/color/452/material-ui.png" title="MATERIAL UI"></code> 
 <code><img height="40" src="https://cdn.auth0.com/blog/react-js/react.png" title="REACT"></code> 
 <code><img height="40" src="https://camo.githubusercontent.com/d5bd7ee34ab0250c1613c61add0f937fb4917cde97e77cb0e86c634fec22b4e9/68747470733a2f2f6b617573747562682e6465762f696d672f6e6578746a732e36333338653362312e706e67" title="NEXT"></code> 
+<code><img height="40" src="https://testing-library.com/img/octopus-64x64.png" title="REACT TESTING LIBRARY"></code>
 <code><img height="40" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" title="JEST"></code>
 <code><img height="40" src="https://i.imgur.com/hAh0v6R.png" title="CYPRESS"></code>
   </div>
   </p>
 
  ---
+<h2 align="center">Contato</h2>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/everton-toffanetto/" target="blank"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Éverton%20Toffanetto-563D7C?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/everton-toffanetto/"/></a>
