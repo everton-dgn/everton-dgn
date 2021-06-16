@@ -6,11 +6,11 @@
 
 <div>
   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=everton-dgn&show_icons=true&theme=dracula"> 
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=everton-dgn&show_icons=true&theme=dracula"> 
   </p>
 
   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=everton-dgn&layout=compact&theme=dracula"> 
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=everton-dgn&layout=compact&theme=dracula"> 
   </p>
 </div>
 
