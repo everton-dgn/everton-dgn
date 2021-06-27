@@ -1,4 +1,6 @@
-![Profile View Counter](https://komarev.com/ghpvc/?username=everton-dgn&color=blueviolet)
+![Profile View Counter](https://komarev.com/ghpvc/?username=everton-dgn&color=blueviolet&style=plastic)
+[![Repos Badge](https://badges.pufler.dev/repos/everton-dgn?color=blueviolet&style=plastic)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/yearly/everton-dgn?color=blueviolet&style=plastic)](https://badges.pufler.dev)
 
 ---
 <h2 align="center">Olá <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/everton-dgn/everton-dgn/blob/main/gif/Hi.gif" width="30px"></h2>
