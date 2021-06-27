@@ -2,8 +2,8 @@
 <h2 align="center">Olá <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/everton-dgn/everton-dgn/blob/main/gif/Hi.gif" width="30px"></h2>
 
 <div align="center">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=everton-dgn&show_icons=true&theme=dracula"> 
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=everton-dgn&layout=compact&theme=dracula"> 
+  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=everton-dgn&show_icons=true&theme=dracula"> 
+  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=everton-dgn&layout=compact&theme=dracula"> 
 </div>
 
 ---
