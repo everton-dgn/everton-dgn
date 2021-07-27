@@ -43,4 +43,4 @@
 <a href="http://querocriarsite.com" target="blank"><img alt="Site Badge" src="https://img.shields.io/badge/-www.querocriarsite.com-563D7C?style=flat-square&logo=Google-Chrome&logoColor=white&link=www.querocriarsite.com"/></a>
 </p>
 
-![Snake animation](https://github.com/everton-dgn/everton-dgn/blob/output/github-contribution-grid-snake.svg)
+![](https://github.com/everton-dgn/everton-dgn/raw/output/github-contribution-grid-snake.svg)
