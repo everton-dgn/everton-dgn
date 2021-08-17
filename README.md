@@ -37,10 +37,21 @@
 <h2 align="center">Contato</h2>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/everton-toffanetto/" target="blank"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Éverton%20Toffanetto-563D7C?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/everton-toffanetto/"/></a>
-<a href="https://www.youtube.com/channel/UCT-ObDVtFRfarF1JOkMoBWg?view_as=subscriber" target="blank"><img alt="Youtube Badge" src="https://img.shields.io/badge/-Éverton%20Toffanetto-563D7C?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCT-ObDVtFRfarF1JOkMoBWg?view_as=subscriber"/></a>
-<a href="https://www.behance.net/everton_toffanetto" target="blank"><img alt="Behance Badge" src="https://img.shields.io/badge/-Éverton%20Toffanetto-563D7C?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/everton_toffanetto"/></a>
-<a href="http://querocriarsite.com" target="blank"><img alt="Site Badge" src="https://img.shields.io/badge/-www.querocriarsite.com-563D7C?style=flat-square&logo=Google-Chrome&logoColor=white&link=www.querocriarsite.com"/></a>
+<a href="https://www.twitch.tv/everton_dgn" target="blank">
+  <img alt="Twitch" src="https://img.shields.io/badge/-Éverton%20Toffanetto-563D7C?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/everton_dgn"/>
+</a>
+<a href="https://www.linkedin.com/in/everton-toffanetto/" target="blank">
+  <img alt="Linkedin" src="https://img.shields.io/badge/-Éverton%20Toffanetto-563D7C?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/everton-toffanetto/"/>
+</a>
+<a href="https://www.youtube.com/channel/UCT-ObDVtFRfarF1JOkMoBWg?view_as=subscriber" target="blank">
+  <img alt="Youtube" src="https://img.shields.io/badge/-Éverton%20Toffanetto-563D7C?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCT-ObDVtFRfarF1JOkMoBWg?view_as=subscriber"/>
+</a>
+<a href="https://www.behance.net/everton_toffanetto" target="blank">
+  <img alt="Behance" src="https://img.shields.io/badge/-Éverton%20Toffanetto-563D7C?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/everton_toffanetto"/>
+</a>
+<a href="http://querocriarsite.com" target="blank">
+  <img alt="Site" src="https://img.shields.io/badge/-www.querocriarsite.com-563D7C?style=flat-square&logo=Google-Chrome&logoColor=white&link=www.querocriarsite.com"/>
+</a>
 </p>
 
 <div align="center">
