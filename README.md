@@ -38,7 +38,7 @@
 
 <p align="center">
 <a href="https://www.twitch.tv/everton_dgn" target="blank">
-  <img alt="Twitch" src="https://img.shields.io/badge/-Éverton%20Toffanetto-563D7C?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/everton_dgn"/>
+  <img alt="Twitch" src="https://img.shields.io/badge/-everton_dgn-563D7C?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/everton_dgn"/>
 </a>
 <a href="https://www.linkedin.com/in/everton-toffanetto/" target="blank">
   <img alt="Linkedin" src="https://img.shields.io/badge/-Éverton%20Toffanetto-563D7C?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/everton-toffanetto/"/>
