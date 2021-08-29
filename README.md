@@ -37,9 +37,6 @@
 <h2 align="center">Contato</h2>
 
 <p align="center">
-<a href="https://www.twitch.tv/everton_dgn" target="blank">
-  <img alt="Twitch" src="https://img.shields.io/badge/-everton_dgn-563D7C?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/everton_dgn"/>
-</a>
 <a href="https://discord.gg/vCvnXwSM" target="blank">
   <img alt="Discord" src="https://img.shields.io/badge/-programação_na_veia-563D7C?style=flat-square&logo=Discord&logoColor=white&link=https://discord.gg/vCvnXwSM"/>
 </a>
