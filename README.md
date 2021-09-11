@@ -14,6 +14,11 @@
   <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=everton-dgn&layout=compact&theme=dracula"> 
 </div>
 
+<br />
+
+<div align="center">&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com?user=everton-dgn&theme=dracula" alt="everton-dgn" /></div>
+  
+  
 ---
 
 <h2 align="center">Linguagens e Ferramentas</h2>
