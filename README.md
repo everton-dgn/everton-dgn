@@ -43,9 +43,6 @@
 <h2 align="center">Contato</h2>
 
 <p align="center">
-<a href="https://discord.gg/vCvnXwSM" target="blank">
-  <img alt="Discord" src="https://img.shields.io/badge/-programação_na_veia-563D7C?style=flat-square&logo=Discord&logoColor=white&link=https://discord.gg/vCvnXwSM"/>
-</a>
 <a href="https://www.linkedin.com/in/everton-toffanetto/" target="blank">
   <img alt="Linkedin" src="https://img.shields.io/badge/-Éverton%20Toffanetto-563D7C?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/everton-toffanetto/"/>
 </a>
