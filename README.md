@@ -32,7 +32,7 @@
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" title="GRAPHQL"></code> 
 <code><img height="40" src="https://apollographql.gallerycdn.vsassets.io/extensions/apollographql/vscode-apollo/1.19.4/1626373506944/Microsoft.VisualStudio.Services.Icons.Default" title="APOLLO CLIENT"></code> 
 <code><img height="40" src="https://cdn.auth0.com/blog/react-js/react.png" title="REACT"></code> 
-<code><img height="40" src="https://camo.githubusercontent.com/d5bd7ee34ab0250c1613c61add0f937fb4917cde97e77cb0e86c634fec22b4e9/68747470733a2f2f6b617573747562682e6465762f696d672f6e6578746a732e36333338653362312e706e67" title="NEXT"></code> 
+<code><img height="40" src="https://next-book-portfolio-site.vercel.app/images/next.svg" title="NEXT"></code> 
 <code><img height="40" src="https://testing-library.com/img/octopus-64x64.png" title="REACT TESTING LIBRARY"></code>
 <code><img height="40" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" title="JEST"></code>
 <code><img height="40" src="https://avatars.githubusercontent.com/u/8908513?s=280&v=4" title="CYPRESS"></code>
