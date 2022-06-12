@@ -53,8 +53,8 @@
 <a href="https://www.behance.net/everton_toffanetto" target="blank">
   <img alt="Behance" src="https://img.shields.io/badge/-Éverton%20Toffanetto-563D7C?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/everton_toffanetto"/>
 </a>
-<a href="http://querocriarsite.com" target="blank">
-  <img alt="Site" src="https://img.shields.io/badge/-www.querocriarsite.com-563D7C?style=flat-square&logo=Google-Chrome&logoColor=white&link=www.querocriarsite.com"/>
+<a href="http://www.programadordesucesso.com" target="blank">
+  <img alt="Site" src="https://img.shields.io/badge/-www.programadordesucesso.com-563D7C?style=flat-square&logo=Google-Chrome&logoColor=white&link=www.programadordesucesso.com"/>
 </a>
 </p>
 
