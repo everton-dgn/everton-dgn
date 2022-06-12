@@ -9,6 +9,7 @@
 <h2 align="center">Olá <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!
   
 <br />
+<br />
 
 <div align="center">
   <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=everton-dgn&show_icons=true&theme=dracula"> 
