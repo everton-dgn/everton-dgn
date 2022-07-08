@@ -8,7 +8,7 @@
 </div>
 
 ---
-<h2 align="center">Olá <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!
+<h2 align="center">Hi <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!
   
 <br />
 <br />
@@ -25,7 +25,7 @@
   
 ---
 
-<h2 align="center">Linguagens e Ferramentas</h2>
+<h2 align="center">Technologies</h2>
 <br>
 <p align="center">
   <div align="center">
@@ -43,7 +43,7 @@
   </p>
 
  ---
-<h2 align="center">Contato</h2>
+<h2 align="center">Contact</h2>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/everton-toffanetto/" target="blank">
