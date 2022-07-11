@@ -3,7 +3,6 @@
 <div align="center">
   
   ![Profile View Counter](https://komarev.com/ghpvc/?username=everton-dgn&color=blueviolet&style=plastic)
-  ![Repos Badge](https://badges.pufler.dev/repos/everton-dgn?color=blueviolet&style=plastic)](https://badges.pufler.dev)
   
 </div>
 
