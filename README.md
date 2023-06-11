@@ -48,14 +48,11 @@
 <a href="https://www.linkedin.com/in/everton-toffanetto/" target="blank">
   <img alt="Linkedin" src="https://img.shields.io/badge/-Éverton%20Toffanetto-563D7C?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/everton-toffanetto/"/>
 </a>
-<a href="https://www.youtube.com/channel/UCT-ObDVtFRfarF1JOkMoBWg?view_as=subscriber" target="blank">
-  <img alt="Youtube" src="https://img.shields.io/badge/-Éverton%20Toffanetto-563D7C?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCT-ObDVtFRfarF1JOkMoBWg?view_as=subscriber"/>
+<a href="https://www.youtube.com/@toffanettodev" target="blank">
+  <img alt="Youtube" src="https://img.shields.io/badge/-Éverton%20Toffanetto-563D7C?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/@toffanettodev"/>
 </a>
 <a href="https://www.behance.net/everton_toffanetto" target="blank">
   <img alt="Behance" src="https://img.shields.io/badge/-Éverton%20Toffanetto-563D7C?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/everton_toffanetto"/>
-</a>
-<a href="http://www.programadordesucesso.com" target="blank">
-  <img alt="Site" src="https://img.shields.io/badge/-www.programadordesucesso.com-563D7C?style=flat-square&logo=Google-Chrome&logoColor=white&link=www.programadordesucesso.com"/>
 </a>
 </p>
 
