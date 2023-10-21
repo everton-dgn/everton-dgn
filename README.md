@@ -42,6 +42,8 @@
     <code><img height="40" src="https://testing-library.com/img/octopus-64x64.png" title="REACT TESTING LIBRARY"></code>
     <code><img height="40" src="https://avatars.githubusercontent.com/u/8908513?s=280&v=4" title="CYPRESS"></code>
     <code><img height="40" src="https://img.stackshare.io/service/4906/default_db6159e1ae3d61e909d2c05d5a2c6990bdc6088f.png" title="STORYBOOK"></code>
+    <code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRPird35ygTkANPrsBc9iREtcaJYSKEhcJjxScN3lbjsBmgxRfI7qDOuaY4ALBLB0WNOE" title="PENPOT"></code>
+    <code><img height="40" src="https://logodownload.org/wp-content/uploads/2022/12/figma-logo.png" title="FIGMA"></code>
   </div>
   </p>
 
