@@ -33,7 +33,8 @@
     <code><img height="40" src="https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png" title="HTML"></code>
     <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" title="CSS"></code> 
     <code><img height="40" src="https://logospng.org/download/javascript/logo-javascript-icon-1024.png" title="JAVASCRIPT"></code> 
-    <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" title="TYPESCRIPT"></code> 
+    <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" title="TYPESCRIPT"></code>
+    <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1024px-Sass_Logo_Color.svg.png" title="SASS"></code> 
     <code><img height="40" src="https://cdn.auth0.com/blog/react-js/react.png" title="REACT"></code> 
     <code><img height="40" src="https://next-book-portfolio-site.vercel.app/images/next.svg" title="NEXT"></code> 
     <code><img height="40" src="https://astro.js.org/astro.png" title="ASTRO"></code>
