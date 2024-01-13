@@ -36,6 +36,7 @@
     <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" title="TYPESCRIPT"></code> 
     <code><img height="40" src="https://cdn.auth0.com/blog/react-js/react.png" title="REACT"></code> 
     <code><img height="40" src="https://next-book-portfolio-site.vercel.app/images/next.svg" title="NEXT"></code> 
+    <code><img height="40" src="https://astro.js.org/astro.png" title="ASTRO"></code>
     <code><img height="40" src="https://webpack.js.org/icon-square-small.9e8aff7a67a5dd20.svg" title="WEBPACK"></code>
     <code><img height="40" src="https://www.rspack.dev/static/image/logo.b5ceba6d.png" title="RSPACK"></code>
     <code><img height="40" src="https://vite.dev/logo.svg" title="VITE"></code>
