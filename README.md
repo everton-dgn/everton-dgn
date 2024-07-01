@@ -47,6 +47,11 @@
     <code><img height="40" src="https://pbs.twimg.com/profile_images/1318604600677527552/stk8sqYZ_400x400.png" title="PLAYWRIGHT"></code>
     <code><img height="40" src="https://img.stackshare.io/service/4906/default_db6159e1ae3d61e909d2c05d5a2c6990bdc6088f.png" title="STORYBOOK"></code>
     <code><img height="40" src="https://logodownload.org/wp-content/uploads/2022/12/figma-logo.png" title="FIGMA"></code>
+    <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" title="PYTHON"></code>
+    <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png" title="GODOT"></code>
+    <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1200px-WebStorm_Icon.svg.png" title="WEBSTORM"></code>
+    <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" title="PYCHARM"></code>
+    <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/JetBrains_Rider_Icon.svg/1024px-JetBrains_Rider_Icon.svg.png" title="RIDER"></code>
   </div>
   </p>
 
