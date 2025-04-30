@@ -40,6 +40,7 @@
     <code><img height="40" src="https://astro.js.org/astro.png" title="ASTRO"></code>
     <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" title="SVELTE"></code>
     <code><img height="40" src="https://avatars.githubusercontent.com/u/79226042?s=200&v=4" title="SOLID"></code>
+    <code><img height="40" src="https://images.opencollective.com/solidstart-fund/60905db/logo/256.png?height=256" title="SOLIDSTART"></code>
     <code><img height="40" src="https://webpack.js.org/icon-square-small.9e8aff7a67a5dd20.svg" title="WEBPACK"></code>
     <code><img height="40" src="https://vite.dev/logo.svg" title="VITE"></code>
     <code><img height="40" src="https://vitest.dev/logo.svg" title="VITEST"></code>
