@@ -4,43 +4,43 @@
 </div>
 
 ---
-<h2 align="center">Hi <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!
+<h2 align="center">Hi <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!</h1>
   
-<br />
 <br />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=everton-dgn&layout=compact&theme=dracula" height="170" alt="Most used languages" />
   <br />
   <br />
-<img src="https://img.shields.io/badge/Public%20repos-54-8be9fd?style=for-the-badge&labelColor=282a36&color=8be9fd" alt="Public repos" />
-<img src="https://img.shields.io/badge/Stack-TS%20%7C%20Solid%20%7C%20Next-cfb8ff?style=for-the-badge&labelColor=282a36&color=cfb8ff" alt="Stack" />
-<img src="https://img.shields.io/github/followers/everton-dgn?style=for-the-badge&labelColor=282a36&color=ffb86c&logo=github&logoColor=white" alt="Followers" />
-<img src="https://img.shields.io/github/stars/everton-dgn?style=for-the-badge&labelColor=282a36&color=50fa7b&logo=github&logoColor=white" alt="Stars" />
+  <img src="https://img.shields.io/badge/Public%20repos-54-8be9fd?style=for-the-badge&labelColor=282a36&color=8be9fd" alt="Public repos" />
+  <img src="https://img.shields.io/github/followers/everton-dgn?style=for-the-badge&labelColor=282a36&color=ffb86c&logo=github&logoColor=white" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/everton-dgn?style=for-the-badge&labelColor=282a36&color=50fa7b&logo=github&logoColor=white" alt="Stars" />
+  <img src="https://img.shields.io/badge/Stack-TS%20%7C%20Solid%20%7C%20Next-cfb8ff?style=for-the-badge&labelColor=282a36&color=cfb8ff" alt="Stack" />
 </div>
 
 ---
 
 <h2 align="center">Technologies</h2>
+
 <br>
-<p align="center">
-  <div align="center">
-    <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" title="TYPESCRIPT"></code>
-    <code><img height="40" src="https://cdn.auth0.com/blog/react-js/react.png" title="REACT"></code> 
-    <code><img height="40" src="https://next-book-portfolio-site.vercel.app/images/next.svg" title="NEXT"></code> 
-    <code><img height="40" src="https://astro.js.org/astro.png" title="ASTRO"></code>
-    <code><img height="40" src="https://avatars.githubusercontent.com/u/79226042?s=200&v=4" title="SOLID"></code>
-    <code><img height="40" src="https://images.opencollective.com/solidstart-fund/60905db/logo/256.png?height=256" title="SOLIDSTART"></code>
-    <code><img height="40" src="https://webpack.js.org/icon-square-small.9e8aff7a67a5dd20.svg" title="WEBPACK"></code>
-    <code><img height="40" src="https://vite.dev/logo.svg" title="VITE"></code>
-    <code><img height="40" src="https://vitest.dev/logo.svg" title="VITEST"></code>
-    <code><img height="40" src="https://icon.icepanel.io/Technology/svg/Jest.svg" title="JEST"></code>
-    <code><img height="40" src="https://testing-library.com/img/octopus-64x64.png" title="REACT TESTING LIBRARY"></code>
-    <code><img height="40" src="https://pbs.twimg.com/profile_images/1318604600677527552/stk8sqYZ_400x400.png" title="PLAYWRIGHT"></code>
-    <code><img height="40" src="https://www.svgrepo.com/show/354397/storybook-icon.svg" title="STORYBOOK"></code>
-    <code><img height="40" src="https://logodownload.org/wp-content/uploads/2022/12/figma-logo.png" title="FIGMA"></code>
-  </div>
-  </p>
+
+<div align="center">
+  <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" title="TYPESCRIPT"></code>
+  <code><img height="40" src="https://cdn.auth0.com/blog/react-js/react.png" title="REACT"></code> 
+  <code><img height="40" src="https://next-book-portfolio-site.vercel.app/images/next.svg" title="NEXT"></code> 
+  <code><img height="40" src="https://astro.js.org/astro.png" title="ASTRO"></code>
+  <code><img height="40" src="https://avatars.githubusercontent.com/u/79226042?s=200&v=4" title="SOLID"></code>
+  <code><img height="40" src="https://images.opencollective.com/solidstart-fund/60905db/logo/256.png?height=256" title="SOLIDSTART"></code>
+  <code><img height="40" src="https://webpack.js.org/icon-square-small.9e8aff7a67a5dd20.svg" title="WEBPACK"></code>
+  <code><img height="40" src="https://vite.dev/logo.svg" title="VITE"></code>
+  <code><img height="40" src="https://vitest.dev/logo.svg" title="VITEST"></code>
+  <code><img height="40" src="https://icon.icepanel.io/Technology/svg/Jest.svg" title="JEST"></code>
+  <code><img height="40" src="https://testing-library.com/img/octopus-64x64.png" title="REACT TESTING LIBRARY"></code>
+  <code><img height="40" src="https://pbs.twimg.com/profile_images/1318604600677527552/stk8sqYZ_400x400.png" title="PLAYWRIGHT"></code>
+  <code><img height="40" src="https://www.svgrepo.com/show/354397/storybook-icon.svg" title="STORYBOOK"></code>
+  <code><img height="40" src="https://logodownload.org/wp-content/uploads/2022/12/figma-logo.png" title="FIGMA"></code>
+</div>
+  
   <br />
 
  ---
