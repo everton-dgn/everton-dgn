@@ -1,6 +1,7 @@
-![Logo Everton Toffanetto](/img/capa.webp)
-
-![Developer in pixel art](https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif)
+<div align="center">
+  <img src="/img/capa.webp" alt="Logo Everton Toffanetto" width="100%" />
+  <img src="https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif" alt="Developer in pixel art" width="100%" />
+</div>
 
 ---
 <h2 align="center">Hi <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!
@@ -9,28 +10,14 @@
 <br />
 
 <div align="center">
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=everton-dgn&layout=compact&theme=dracula"> 
-</div>
-
-<br />
-
-<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=everton-dgn&layout=compact&theme=dracula" height="170" alt="Most used languages" />
+  <br />
+  <br />
+  <img src="https://img.shields.io/badge/Public%20repos-54-8be9fd?style=for-the-badge&labelColor=282a36" alt="Public repos" />
+  <img src="https://img.shields.io/badge/Commits%202025-Atualizando-ffb86c?style=for-the-badge&labelColor=282a36" alt="Commits" />
   <img src="https://img.shields.io/github/followers/everton-dgn?style=for-the-badge&color=bd93f9&labelColor=282a36&logo=github&logoColor=white" alt="Followers" />
   <img src="https://img.shields.io/github/stars/everton-dgn?style=for-the-badge&color=50fa7b&labelColor=282a36&logo=github&logoColor=white" alt="Stars" />
-  <img src="https://komarev.com/ghpvc/?username=everton-dgn&style=for-the-badge&color=ff79c6&label=PROFILE+VIEWS" alt="Profile views" />
-</p>
-  
----
-
-<h2 align="center">Projetos em destaque</h2>
-<p align="center">
-  <a href="https://github.com/everton-dgn/boilerplate_nextjs_app">
-    <img src="https://opengraph.githubassets.com/1/everton-dgn/boilerplate_nextjs_app" width="49%" />
-  </a>
-  <a href="https://github.com/everton-dgn/boilerplate_solidstart">
-    <img src="https://opengraph.githubassets.com/1/everton-dgn/boilerplate_solidstart" width="49%" />
-  </a>
-</p>
+</div>
 
 ---
 
@@ -56,7 +43,6 @@
     <code><img height="40" src="https://pbs.twimg.com/profile_images/1318604600677527552/stk8sqYZ_400x400.png" title="PLAYWRIGHT"></code>
     <code><img height="40" src="https://www.svgrepo.com/show/354397/storybook-icon.svg" title="STORYBOOK"></code>
     <code><img height="40" src="https://logodownload.org/wp-content/uploads/2022/12/figma-logo.png" title="FIGMA"></code>
-    <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1200px-WebStorm_Icon.svg.png" title="WEBSTORM"></code>
   </div>
   </p>
   <br />
@@ -79,7 +65,5 @@
 </p>
 
 <div align="center">
-  
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-  
-  </div>
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="github contribution snake" />
+</div>
