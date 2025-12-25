@@ -13,10 +13,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=everton-dgn&layout=compact&theme=dracula" height="170" alt="Most used languages" />
   <br />
   <br />
-  <img src="https://img.shields.io/badge/Public%20repos-54-8be9fd?style=for-the-badge&labelColor=282a36" alt="Public repos" />
-  <img src="https://img.shields.io/badge/Commits%202025-Atualizando-ffb86c?style=for-the-badge&labelColor=282a36" alt="Commits" />
-  <img src="https://img.shields.io/github/followers/everton-dgn?style=for-the-badge&color=bd93f9&labelColor=282a36&logo=github&logoColor=white" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/everton-dgn?style=for-the-badge&color=50fa7b&labelColor=282a36&logo=github&logoColor=white" alt="Stars" />
+<img src="https://img.shields.io/badge/Public%20repos-54-8be9fd?style=for-the-badge&labelColor=282a36&color=8be9fd" alt="Public repos" />
+<img src="https://img.shields.io/badge/Stack-TS%20%7C%20Solid%20%7C%20Next-cfb8ff?style=for-the-badge&labelColor=282a36&color=cfb8ff" alt="Stack" />
+<img src="https://img.shields.io/github/followers/everton-dgn?style=for-the-badge&labelColor=282a36&color=ffb86c&logo=github&logoColor=white" alt="Followers" />
+<img src="https://img.shields.io/github/stars/everton-dgn?style=for-the-badge&labelColor=282a36&color=50fa7b&logo=github&logoColor=white" alt="Stars" />
 </div>
 
 ---
@@ -25,11 +25,7 @@
 <br>
 <p align="center">
   <div align="center">
-    <code><img height="40" src="https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png" title="HTML"></code>
-    <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" title="CSS"></code> 
-    <code><img height="40" src="https://logospng.org/download/javascript/logo-javascript-icon-1024.png" title="JAVASCRIPT"></code> 
     <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" title="TYPESCRIPT"></code>
-    <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1024px-Sass_Logo_Color.svg.png" title="SASS"></code> 
     <code><img height="40" src="https://cdn.auth0.com/blog/react-js/react.png" title="REACT"></code> 
     <code><img height="40" src="https://next-book-portfolio-site.vercel.app/images/next.svg" title="NEXT"></code> 
     <code><img height="40" src="https://astro.js.org/astro.png" title="ASTRO"></code>
