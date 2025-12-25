@@ -2,12 +2,6 @@
 
 ![Developer in pixel art](https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif)
 
-<div align="center">
-  
-  ![Profile View Counter](https://komarev.com/ghpvc/?username=everton-dgn&color=blueviolet&style=plastic)
-  
-</div>
-
 ---
 <h2 align="center">Hi <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!
   
@@ -18,8 +12,26 @@
   <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=everton-dgn&layout=compact&theme=dracula"> 
 </div>
 
-<br />  
+<br />
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/everton-dgn?style=for-the-badge&color=bd93f9&labelColor=282a36&logo=github&logoColor=white" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/everton-dgn?style=for-the-badge&color=50fa7b&labelColor=282a36&logo=github&logoColor=white" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=everton-dgn&style=for-the-badge&color=ff79c6&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
   
+---
+
+<h2 align="center">Projetos em destaque</h2>
+<p align="center">
+  <a href="https://github.com/everton-dgn/boilerplate_nextjs_app">
+    <img src="https://opengraph.githubassets.com/1/everton-dgn/boilerplate_nextjs_app" width="49%" />
+  </a>
+  <a href="https://github.com/everton-dgn/boilerplate_solidstart">
+    <img src="https://opengraph.githubassets.com/1/everton-dgn/boilerplate_solidstart" width="49%" />
+  </a>
+</p>
+
 ---
 
 <h2 align="center">Technologies</h2>
@@ -47,20 +59,23 @@
     <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1200px-WebStorm_Icon.svg.png" title="WEBSTORM"></code>
   </div>
   </p>
+  <br />
 
  ---
 <h2 align="center">Contact</h2>
 
+<br />
+
 <p align="center">
-<a href="https://www.linkedin.com/in/everton-toffanetto/" target="blank">
-  <img alt="Linkedin" src="https://img.shields.io/badge/-Éverton%20Toffanetto-563D7C?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/everton-toffanetto/"/>
-</a>
-<a href="https://www.youtube.com/@toffanettodev" target="blank">
-  <img alt="Youtube" src="https://img.shields.io/badge/-Éverton%20Toffanetto-563D7C?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/@toffanettodev"/>
-</a>
-<a href="https://www.behance.net/everton_toffanetto" target="blank">
-  <img alt="Behance" src="https://img.shields.io/badge/-Éverton%20Toffanetto-563D7C?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/everton_toffanetto"/>
-</a>
+  <a href="https://www.linkedin.com/in/everton-toffanetto/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.youtube.com/@toffanettodev" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/YouTube-Canal-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://devinsights.dev" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Blog-devinsights.dev-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Blog" />
+  </a>
 </p>
 
 <div align="center">
