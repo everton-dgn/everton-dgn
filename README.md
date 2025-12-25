@@ -50,10 +50,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/everton-toffanetto/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.youtube.com/@toffanettodev" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/YouTube-Canal-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="https://devinsights.dev" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Blog-devinsights.dev-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Blog" />
