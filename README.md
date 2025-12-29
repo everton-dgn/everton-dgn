@@ -9,13 +9,10 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=everton-dgn&layout=compact&theme=dracula" height="170" alt="Most used languages" />
-  <br />
-  <br />
   <img src="https://img.shields.io/badge/Public%20repos-54-8be9fd?style=for-the-badge&labelColor=282a36&color=8be9fd" alt="Public repos" />
   <img src="https://img.shields.io/github/followers/everton-dgn?style=for-the-badge&labelColor=282a36&color=ffb86c&logo=github&logoColor=white" alt="Followers" />
   <img src="https://img.shields.io/github/stars/everton-dgn?style=for-the-badge&labelColor=282a36&color=50fa7b&logo=github&logoColor=white" alt="Stars" />
-  <img src="https://img.shields.io/badge/Stack-TS%20%7C%20Solid%20%7C%20Next-cfb8ff?style=for-the-badge&labelColor=282a36&color=cfb8ff" alt="Stack" />
+  <img src="https://img.shields.io/badge/Stack-TS%20%7C%20SolidStart%20%7C%20Next-cfb8ff?style=for-the-badge&labelColor=282a36&color=cfb8ff" alt="Stack" />
 </div>
 
 ---
