@@ -15,31 +15,6 @@
   <img src="https://img.shields.io/badge/Stack-TS%20%7C%20SolidStart%20%7C%20Next-cfb8ff?style=for-the-badge&labelColor=282a36&color=cfb8ff" alt="Stack" />
 </div>
 
----
-
-<h2 align="center">Technologies</h2>
-
-<br>
-
-<div align="center">
-  <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" title="TYPESCRIPT"></code>
-  <code><img height="40" src="https://cdn.auth0.com/blog/react-js/react.png" title="REACT"></code> 
-  <code><img height="40" src="https://next-book-portfolio-site.vercel.app/images/next.svg" title="NEXT"></code> 
-  <code><img height="40" src="https://astro.js.org/astro.png" title="ASTRO"></code>
-  <code><img height="40" src="https://avatars.githubusercontent.com/u/79226042?s=200&v=4" title="SOLID"></code>
-  <code><img height="40" src="https://images.opencollective.com/solidstart-fund/60905db/logo/256.png?height=256" title="SOLIDSTART"></code>
-  <code><img height="40" src="https://webpack.js.org/icon-square-small.9e8aff7a67a5dd20.svg" title="WEBPACK"></code>
-  <code><img height="40" src="https://vite.dev/logo.svg" title="VITE"></code>
-  <code><img height="40" src="https://vitest.dev/logo.svg" title="VITEST"></code>
-  <code><img height="40" src="https://icon.icepanel.io/Technology/svg/Jest.svg" title="JEST"></code>
-  <code><img height="40" src="https://testing-library.com/img/octopus-64x64.png" title="REACT TESTING LIBRARY"></code>
-  <code><img height="40" src="https://pbs.twimg.com/profile_images/1318604600677527552/stk8sqYZ_400x400.png" title="PLAYWRIGHT"></code>
-  <code><img height="40" src="https://www.svgrepo.com/show/354397/storybook-icon.svg" title="STORYBOOK"></code>
-  <code><img height="40" src="https://logodownload.org/wp-content/uploads/2022/12/figma-logo.png" title="FIGMA"></code>
-</div>
-  
-  <br />
-
  ---
 <h2 align="center">Contact</h2>
 
