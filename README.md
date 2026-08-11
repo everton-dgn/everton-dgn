@@ -7,10 +7,10 @@
 <div align="center">
   <h2 align="center">Hi, I'm Éverton</h2>
 
-I build local-first tools for AI workflows, code quality, and developer productivity.
+I build web applications and developer tools, from product interfaces to AI workflows, code quality and developer productivity.
 <br />
 
-Software engineer from São Paulo, Brazil, working mainly with Next.js, React, TypeScript and Node.js, focused on architecture, testing and developer tooling.
+Software engineer working mainly with Next.js, React, SolidJS, SolidStart, TypeScript and Node.js, focused on architecture, testing, performance and code quality.
 </div>
 
 ---
@@ -22,8 +22,7 @@ Software engineer from São Paulo, Brazil, working mainly with Next.js, React, T
 - **[cdxt](https://github.com/everton-dgn/cdxt)** - interactive on/off toggle for MCP servers and plugins in the Codex CLI config.
 - **[saas_boilerplate_nextjs_tailwind](https://github.com/everton-dgn/saas_boilerplate_nextjs_tailwind)** - SaaS boilerplate with Next.js 16, React 19, TypeScript, shadcn/ui and Tailwind CSS v4.
 - **[boilerplate_nextjs_app](https://github.com/everton-dgn/boilerplate_nextjs_app)** - production-ready Next.js boilerplate for large projects that need to scale.
-- **[clean_arch_nextjs](https://github.com/everton-dgn/clean_arch_nextjs)** - Next.js boilerplate with Clean Architecture, DDD and Atomic Design.
-
+- **[guarda-tarefa](https://github.com/everton-dgn/guarda-tarefa)** - stopwatch web app that saves each tracked session by name, useful to organize studies and tasks.
  ---
 <h2 align="center">Contact</h2>
 
