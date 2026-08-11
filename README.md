@@ -1,10 +1,11 @@
 <div align="center">
   <img src="/img/capa.webp" alt="Logo Everton Toffanetto" width="100%" />
-  <img src="https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif" alt="Developer in pixel art" width="100%" />
 </div>
 
 ---
-<h2 align="center">Hi <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!</h1>
+## Hi, I'm Éverton
+
+I build local-first tools for AI workflows, code quality, and developer productivity.
   
 <br />
 
@@ -31,7 +32,3 @@
     <img src="https://img.shields.io/badge/Blog-devinsights.dev-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Blog" />
   </a>
 </p>
-
-<div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="github contribution snake" />
-</div>
