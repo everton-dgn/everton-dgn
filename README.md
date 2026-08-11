@@ -3,17 +3,11 @@
 </div>
 
 ---
-## Hi, I'm Éverton
-
-I build local-first tools for AI workflows, code quality, and developer productivity.
-  
-<br />
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Public%20repos-54-8be9fd?style=for-the-badge&labelColor=282a36&color=8be9fd" alt="Public repos" />
-  <img src="https://img.shields.io/github/followers/everton-dgn?style=for-the-badge&labelColor=282a36&color=ffb86c&logo=github&logoColor=white" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/everton-dgn?style=for-the-badge&labelColor=282a36&color=50fa7b&logo=github&logoColor=white" alt="Stars" />
-  <img src="https://img.shields.io/badge/Stack-TS%20%7C%20SolidStart%20%7C%20Next-cfb8ff?style=for-the-badge&labelColor=282a36&color=cfb8ff" alt="Stack" />
+  <h2 align="center">Hi, I'm Éverton</h2>
+
+I build local-first tools for AI workflows, code quality, and developer productivity.
 </div>
 
  ---
