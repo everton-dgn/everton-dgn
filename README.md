@@ -10,7 +10,7 @@
 I build web applications and developer tools, from product interfaces to AI workflows, code quality and developer productivity.
 <br />
 
-Software engineer working mainly with Next.js, React, SolidJS, SolidStart, TypeScript and Node.js, focused on architecture, testing, performance and code quality.
+Software engineer working mainly with Next.js, React, SolidJS, TypeScript and Node.js, focused on architecture, testing, performance and code quality.
 </div>
 
 ---
