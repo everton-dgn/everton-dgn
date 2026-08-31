@@ -22,7 +22,7 @@ Software engineer working mainly with Next.js, React, SolidJS, TypeScript and No
 - **[generate-commit-extension](https://github.com/everton-dgn/generate-commit-extension)** - VS Code and VSCodium extension that writes Conventional Commits from your staged diff using AI providers.
 - **[cdxt](https://github.com/everton-dgn/cdxt)** - interactive on/off toggle for MCP servers and plugins in the Codex CLI config.
 - **[boilerplate_nextjs_app](https://github.com/everton-dgn/boilerplate_nextjs_app)** - production-ready Next.js boilerplate for large projects that need to scale.
-- **[saas_boilerplate_nextjs_tailwind](https://github.com/everton-dgn/saas_boilerplate_nextjs_tailwind)** - SaaS boilerplate with Next.js 16, React 19, TypeScript, shadcn/ui and Tailwind CSS v4.
+- **[vault-search-mcp](https://github.com/everton-dgn/vault-search-mcp)** - local-first MCP server for hybrid search across Obsidian vaults and Markdown knowledge bases.
  ---
 <h2 align="center">Contact</h2>
 
