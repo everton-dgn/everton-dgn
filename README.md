@@ -18,11 +18,11 @@ Software engineer working mainly with Next.js, React, SolidJS, TypeScript and No
 <h2 align="center">Featured projects</h2>
 
 - **[content-lens](https://github.com/everton-dgn/content-lens)** - local-first browser extension that filters algorithmic feeds with explicit, explainable rules, with adapters for YouTube, LinkedIn, X, Reddit and Hacker News.
+- **[vault-search-mcp](https://github.com/everton-dgn/vault-search-mcp)** - local-first MCP server for hybrid search across Obsidian vaults and Markdown knowledge bases.
 - **[llm-router](https://github.com/everton-dgn/llm-router)** - local OpenCode router for MiniMax, GLM, Claude and Codex, with adaptive routing and configurable tool policies.
 - **[generate-commit-extension](https://github.com/everton-dgn/generate-commit-extension)** - VS Code and VSCodium extension that writes Conventional Commits from your staged diff using AI providers.
 - **[cdxt](https://github.com/everton-dgn/cdxt)** - interactive on/off toggle for MCP servers and plugins in the Codex CLI config.
 - **[boilerplate_nextjs_app](https://github.com/everton-dgn/boilerplate_nextjs_app)** - production-ready Next.js boilerplate for large projects that need to scale.
-- **[vault-search-mcp](https://github.com/everton-dgn/vault-search-mcp)** - local-first MCP server for hybrid search across Obsidian vaults and Markdown knowledge bases.
  ---
 <h2 align="center">Contact</h2>
 
