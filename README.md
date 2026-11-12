@@ -35,12 +35,6 @@ Postgraduate student in Generative AI Engineering (Data Science Academy, 2026–
 
 ---
 
-<h2 align="center">Open source contributions</h2>
-
-Merged contributions to OpenCodex, oh-my-pi and Paseo: model configuration, provider usage and quota queries, and coding agent integration.
-
----
-
 <h2 align="center">Contact</h2>
 
 <br />
